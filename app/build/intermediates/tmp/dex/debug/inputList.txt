@@ -1,0 +1,6 @@
+/Users/zanesalem/Downloads/PrizeVote/app/build/intermediates/classes/debug
+/Users/zanesalem/Downloads/PrizeVote/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d56e9fe286cbb3521812095fe5d54b0ef1bd24c9.jar
+/Users/zanesalem/Downloads/PrizeVote/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ff8ea0d51f326d4d75af5a389efb3c5e32ea82a6.jar
+/Users/zanesalem/Downloads/PrizeVote/app/build/intermediates/pre-dexed/debug/classes-0dbe9d667720b8053d76ba9c7fa6e6ed5e02c897.jar
+/Users/zanesalem/Downloads/PrizeVote/app/build/intermediates/pre-dexed/debug/classes-2b7e30bf0ca2733ed3414817569e11440c3dd129.jar
+/Users/zanesalem/Downloads/PrizeVote/app/build/intermediates/pre-dexed/debug/classes-7aa9db5114bead2adee53300e0efd840e29f65d8.jar

@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                tools:context="eecs588.prizevote.ReferActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:id="@+id/imageView"
+            android:src="@drawable/qr_code"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.5"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Refer your friends for more points!  Have them scan your personal QR code above, and you&apos;ll both get 1000 points when they sign up!"
+            android:id="@+id/textView"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:textSize="24dp"
+            />
+    </LinearLayout>
+
+</RelativeLayout>
